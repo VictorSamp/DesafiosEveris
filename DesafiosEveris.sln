@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoHoHo", "HoHoHo\HoHoHo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pneu", "Pneu\Pneu.csproj", "{176AEE2F-ACCE-4DE5-BEDD-35F910DEA514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrante", "Quadrante\Quadrante.csproj", "{8F50BC13-D034-4732-8489-BA07CDC40D1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{176AEE2F-ACCE-4DE5-BEDD-35F910DEA514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{176AEE2F-ACCE-4DE5-BEDD-35F910DEA514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{176AEE2F-ACCE-4DE5-BEDD-35F910DEA514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F50BC13-D034-4732-8489-BA07CDC40D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F50BC13-D034-4732-8489-BA07CDC40D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F50BC13-D034-4732-8489-BA07CDC40D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F50BC13-D034-4732-8489-BA07CDC40D1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
